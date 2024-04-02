@@ -1,8 +1,8 @@
 # [UTalent]
 #### Open hours - 11AM - 11PM every day without weekends 
 
-Frontend team repository for UpTalent project
-The UpTalent app that is a professional networking platform that also allows content creators to monetize their content.
+Frontend team repository for UTalent project
+The UTalent app that is a professional networking platform that also allows content creators to monetize their content.
 
 ## Getting Started
 
