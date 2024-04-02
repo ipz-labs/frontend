@@ -1,4 +1,4 @@
-# [UpTalent](http://18.156.56.85:8083)
+# [UTalent]
 #### Open hours - 11AM - 11PM every day without weekends 
 
 Frontend team repository for UpTalent project
