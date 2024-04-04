@@ -1,8 +1,8 @@
-# [UpTalent](http://18.156.56.85:8083)
+# [UTalent]
 #### Open hours - 11AM - 11PM every day without weekends 
 
-Frontend team repository for UpTalent project
-The UpTalent app that is a professional networking platform that also allows content creators to monetize their content.
+Frontend team repository for UTalent project
+The UTalent app that is a professional networking platform that also allows content creators to monetize their content.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Clone this repository to your local machine using:
 
 ```bash
-  git clone https://github.com/Team-Alexander/frontend.git
+  git clone [https://github.com/ipz-labs/frontend.git](https://github.com/ipz-labs/frontend.git)
 ```
 
 - Go to the project directory:
