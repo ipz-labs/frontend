@@ -12,4 +12,5 @@ export const validationSchema = Yup.object({
 	skills: Yup.array().min(1, 'This filed is required'),
 	location: Yup.string().max(256, 'Must be less than 256 characters'),
 	birthday: Yup.date().max(new Date(), 'Cannot select a future date'),
+	about_me: Yup.string().max(256, 'Must be less than 256 characters'),
 });
